@@ -4,7 +4,9 @@ I'm a passionate Software Engineer pursuing my Master’s in Information Systems
 What I’m passionate about:
 
 Building robust software and deploying applications that solve real-world problems.
+
 Continuous learning and applying new technologies to enhance my projects.
+
 Collaborating within agile teams and sharing knowledge to foster growth.
 
 Skills & Expertise:
