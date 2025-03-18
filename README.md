@@ -1,10 +1,12 @@
 🚀 Shubham Lakhotia | Software Engineer | AI & Cloud Enthusiast
 
 👋 About Me
+
 Hey there! I’m Shubham, a Software Engineer passionate about building impactful, high-performance applications. I’m pursuing my Master’s in Information Systems at Northeastern University, blending my Full-Stack Development, AI, and Cloud Computing expertise to craft cutting-edge solutions.
 I thrive on problem-solving, writing clean code, and optimizing user experiences. Whether designing a sleek UI, scaling cloud infrastructure, or implementing AI-powered automation, I love making things efficient, fast, and user-friendly.
 
 🚀 Tech Stack & Expertise
+
 💻 Languages: Java | Python | Golang | TypeScript | JavaScript | SQL | C#
 ⚡ Frontend: React.js | Next.js | Angular | Tailwind CSS | Material-UI
 🛠 Backend & APIs: Node.js | Express.js | RESTful & GraphQL APIs | Microservices
@@ -14,6 +16,7 @@ I thrive on problem-solving, writing clean code, and optimizing user experiences
 🔧 Tools: Git | Postman | Jira | Linux
 
 🏗️ What I Do
+
 🌍 Build scalable and user-centric web applications with Java, Python, React, and Angular
 
 🤖 Develop AI-powered applications using TensorFlow, PyTorch, and YOLO
