@@ -1,23 +1,28 @@
-Hey there! 👋 I'm Shubham
+🚀 Shubham Lakhotia | Software Engineer | AI & Cloud Enthusiast
 
-I'm a passionate Software Engineer pursuing my Master’s in Information Systems at Northeastern University. With nearly three years of experience as a Full-Stack Developer, I've built dynamic, user-centric web applications and contributed to impactful projects across various domains. My primary programming languages include Java and Python, which I leverage to create efficient, scalable solutions.
+👋 About Me
+Hey there! I’m Shubham, a Software Engineer passionate about building impactful, high-performance applications. I’m pursuing my Master’s in Information Systems at Northeastern University, blending my Full-Stack Development, AI, and Cloud Computing expertise to craft cutting-edge solutions.
+I thrive on problem-solving, writing clean code, and optimizing user experiences. Whether designing a sleek UI, scaling cloud infrastructure, or implementing AI-powered automation, I love making things efficient, fast, and user-friendly.
 
-What I’m passionate about:
+🚀 Tech Stack & Expertise
+💻 Languages: Java | Python | Golang | TypeScript | JavaScript | SQL | C#
+⚡ Frontend: React.js | Next.js | Angular | Tailwind CSS | Material-UI
+🛠 Backend & APIs: Node.js | Express.js | RESTful & GraphQL APIs | Microservices
+📦 Databases: MySQL | Amazon RDS | MongoDB
+☁️ Cloud & DevOps: AWS | Azure | Docker | Terraform | CI/CD (GitHub Actions, Jenkins)
+🤖 AI & ML: TensorFlow | PyTorch | YOLO | OpenAI API
+🔧 Tools: Git | Postman | Jira | Linux
 
-Building robust software and deploying applications that solve real-world problems.
+🏗️ What I Do
+🌍 Build scalable and user-centric web applications with Java, Python, React, and Angular
 
-Continuous learning and applying new technologies to enhance my projects.
+🤖 Develop AI-powered applications using TensorFlow, PyTorch, and YOLO
 
-Collaborating within agile teams and sharing knowledge to foster growth.
+☁️ Architect Cloud-based solutions on AWS & Azure with Terraform, Docker & CI/CD
 
-Skills & Expertise:
+🔎 Optimize RESTful & GraphQL APIs for high performance and security
 
-Full Stack Development with Java, Python, React, and Angular.
+🕹️ Passionate about game development and blending AI with gaming
 
-Creating and integrating RESTful APIs and microservices.
-
-AWS cloud infrastructure, CI/CD pipelines, and software best practices.
-
-Strong foundations in data structures, algorithms, and object-oriented programming.
-
-What excites me: Coding isn't just work; it's my passion. I love designing clean code, implementing user-friendly interfaces, and solving challenging problems. My interest in game development and gaming culture drives me to explore projects that combine fun with innovation.
+For me, coding isn’t just a job—it’s a passion. I thrive on writing clean, efficient code, crafting seamless user experiences, and tackling complex challenges head-on.
+I’m particularly drawn to AI-driven applications, scalable cloud solutions, and full-stack development. The ability to leverage AI, automation, and cloud computing to solve real-world problems excites me. Whether it's optimizing system performance, designing intuitive user interfaces, or architecting scalable backend systems, I love building software that’s not just functional, but truly impactful and innovative
