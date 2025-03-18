@@ -8,11 +8,17 @@ I thrive on problem-solving, writing clean code, and optimizing user experiences
 🚀 Tech Stack & Expertise
 
 💻 Languages: Java | Python | Golang | TypeScript | JavaScript | SQL | C#
+
 ⚡ Frontend: React.js | Next.js | Angular | Tailwind CSS | Material-UI
+
 🛠 Backend & APIs: Node.js | Express.js | RESTful & GraphQL APIs | Microservices
+
 📦 Databases: MySQL | Amazon RDS | MongoDB
+
 ☁️ Cloud & DevOps: AWS | Azure | Docker | Terraform | CI/CD (GitHub Actions, Jenkins)
+
 🤖 AI & ML: TensorFlow | PyTorch | YOLO | OpenAI API
+
 🔧 Tools: Git | Postman | Jira | Linux
 
 🏗️ What I Do
